@@ -1,6 +1,6 @@
 # paiza
 
-# Cord Girl Collection
+# コードガールコレクション
 
 ![CordGirlCollection](./imege/CordGirlCollection.png)
 
