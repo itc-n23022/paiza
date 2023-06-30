@@ -52,7 +52,7 @@
 
 [ポニーテール](./kanojo/ponytail.py)
 
-[ツインテール](./kanojo/twinteil.py)
+[ツインテール](./kanojo/twintail.py)
 
 [セーラー服](./kanojo/se-ra-huku.py)
 
