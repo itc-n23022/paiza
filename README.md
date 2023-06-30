@@ -35,3 +35,30 @@
 [マイク](./lovehackathon/mic.py)
 
 [カチューシャ](./lovehackathon/katyusya.py)
+
+# プログラミングで彼女を作る
+
+[つり目](./kanojo/turime.py)
+
+[眼帯](./kanojo/gantai.py)
+
+[猫耳](./kanojo/nekomimi.py)
+
+[猫](./kanojo/nekoset.py)
+
+[ショートヘア](./kanojo/shorthair.py)
+
+[ロングヘア](./kanojo/longhair.py)
+
+[ポニーテール](./kanojo/ponytail.py)
+
+[ツインテール](./kanojo/twinteil.py)
+
+[セーラー服](./kanojo/se-ra-huku.py)
+
+[カーディガン](./kanojo/ka-dhigan.py)
+
+[縞ニーソ](./kanojo/simani-so.py)
+
+[メイド服](./kanojo/meidohuku.py)
+
